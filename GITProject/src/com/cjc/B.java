@@ -8,9 +8,15 @@ public class B {
 		{
 			System.out.println("Selenium world");
 		}
+		public void DemoWebShop()
+		{
+		System.out.println("DemoWEb Pages");
+		}
 		public static void main(String[] args) {
 			
 			System.out.println("Call Selenium");
+			System.out.println("Java Language");
+			System.out.println("Windows");
 
 	}
 
