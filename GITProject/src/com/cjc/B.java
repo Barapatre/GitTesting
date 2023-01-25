@@ -15,6 +15,8 @@ public class B {
 		public static void main(String[] args) {
 			
 			System.out.println("Call Selenium");
+			System.out.println("Java Language");
+			System.out.println("Windows");
 
 	}
 
