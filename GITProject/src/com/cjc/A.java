@@ -6,6 +6,10 @@ public class A {
 	{
 	System.out.println("Hello Java");
 	}
+	public void Mercury()
+	{
+	System.out.println("Mercury Page");
+	}
 	
 	public static void main(String[] args) {
 	
